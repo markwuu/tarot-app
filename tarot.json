@@ -1,0 +1,294 @@
+{
+  "0": {
+    "name": "The Fool",
+    "element": "Air",
+    "zodiac": "Uranus",
+    "answer": true,
+    "description": "Be open to embark on a new adventure",
+    "meaning": [
+      "Innocence",
+      "New Beginnings",
+      "Wonder",
+      "Curiosity",
+      "A new path of life"
+    ],
+    "reverseMeaning": ["Chaos", "Lack of direction", "Lacking adventure"],
+    "question": "What small step can you take to begin a new journey?"
+  },
+  "1": {
+    "name": "The Magician",
+    "element": "Air",
+    "zodiac": "Mercury",
+    "answer": true,
+    "description": "What you imagine you can create",
+    "meaning": [
+      "Creativity",
+      "Manifestation",
+      "Talent",
+      "Miracles",
+      "Potential"
+    ],
+    "reverseMeaning": ["Trickers", "Deception", "Creative Blockages"],
+    "question": "How can you use your highest potential?"
+  },
+  "2": {
+    "name": "The High Priestess",
+    "element": "Water",
+    "zodiac": "Moon",
+    "answer": true,
+    "description": "Let your inner voice guide you",
+    "meaning": [
+      "Inner voice",
+      "Intuition",
+      "Divine Truth",
+      "Emotional Stability"
+    ],
+    "reverseMeaning": ["Secrets", "Disconnection", "Lack of Self-Trust"],
+    "question": "What is your inner voice telling you?"
+  },
+  "3": {
+    "name": "The Empress",
+    "element": "Earth",
+    "zodiac": "Venus",
+    "answer": true,
+    "description": "Fall in love with your creativity",
+    "meaning": [
+      "Beauty",
+      "Fertility",
+      "Nurturing Luxury",
+      "Creativity",
+      "Birth"
+    ],
+    "reverseMeaning": ["Stagnation", "Infertility", "Lack", "Selfishness"],
+    "question": "What do you want to express?"
+  },
+  "4": {
+    "name": "The Emperor",
+    "element": "Fire",
+    "zodiac": "Aries",
+    "answer": true,
+    "description": "Own your space in the world with confidence",
+    "meaning": [
+      "Authority",
+      "Leadership",
+      "Fatherhood",
+      "Pioneer of new lands"
+    ],
+    "reverseMeaning": [
+      "Abuse of Power",
+      "Lack of Discipline",
+      "Domination",
+      "Control"
+    ],
+    "question": "Where is my space in the world and how can I fill it?"
+  },
+  "5": {
+    "name": "The Hierophant",
+    "element": "Earth",
+    "zodiac": "Taurus",
+    "answer": true,
+    "description": "Know and understand your deeper values and beliefs",
+    "meaning": ["Spiritual Guidance", "Teachings and Education Diving Laws"],
+    "reverseMeaning": [
+      "Rebellion",
+      "Withdrawal",
+      "Rejection",
+      "False Knowledge"
+    ],
+    "question": "What do you believe about the world?"
+  },
+  "6": {
+    "name": "The Lovers",
+    "element": "",
+    "zodiac": "",
+    "answer": true,
+    "description": "",
+    "meaning": [],
+    "reverseMeaning": [],
+    "question": ""
+  },
+  "7": {
+    "name": "The Chariot",
+    "element": "Water",
+    "zodiac": "Cancer",
+    "answer": true,
+    "description": "Triumph in the face of difficulty",
+    "meaning": ["Drive", "Will Power", "Confidence", "Direction", "Ambition"],
+    "reverseMeaning": [
+      "A cancelled journey",
+      "Lack of direction",
+      "In need of help"
+    ],
+    "question": "What challenges have you already overcome in your life?"
+  },
+  "8": {
+    "name": "Strength",
+    "element": "Fire",
+    "zodiac": "Leo",
+    "answer": true,
+    "description": "You don't know your own strength until it's tested",
+    "meaning": ["Courage", "Inner Strength", "Compassion", "Patience"],
+    "reverseMeaning": ["Impatience", "Self-doubt", "Weakness"],
+    "question": "Where lies your inner strength, how can you be strong today?"
+  },
+  "9": {
+    "name": "The Hermit",
+    "element": "",
+    "zodiac": "",
+    "answer": true,
+    "description": "",
+    "meaning": [],
+    "reverseMeaning": [],
+    "question": ""
+  },
+  "10": {
+    "name": "Wheel of Fortune",
+    "element": "",
+    "zodiac": "",
+    "answer": true,
+    "description": "",
+    "meaning": [],
+    "reverseMeaning": [],
+    "question": ""
+  },
+  "11": {
+    "name": "Justice",
+    "element": "",
+    "zodiac": "",
+    "answer": true,
+    "description": "",
+    "meaning": [],
+    "reverseMeaning": [],
+    "question": ""
+  },
+  "12": {
+    "name": "The Hanged Man",
+    "element": "Water",
+    "zodiac": "Neptune",
+    "answer": true,
+    "description": "Looking at the world from a different perspective",
+    "meaning": ["Sacrifice", "Perspective", "Release", "Disengagement"],
+    "reverseMeaning": ["Indecision", "Narrow minded", "Holding back"],
+    "question": "What are you not seeing that is right in front of you?"
+  },
+  "13": {
+    "name": "Death",
+    "element": "Water",
+    "zodiac": "Scorpio",
+    "answer": true,
+    "description": "Evolving always means letting go",
+    "meaning": ["Endings", "Separation", "Profound", "Change", "Rebirth"],
+    "reverseMeaning": [
+      "Holding onto what is decayed",
+      "Attachment",
+      "Fear",
+      "Illness",
+      "Depression"
+    ],
+    "question": "What are you afraid to let go of?"
+  },
+  "14": {
+    "name": "Temperance",
+    "element": "Fire",
+    "zodiac": "Sagittarius",
+    "answer": true,
+    "description": "Seek balance and moderation",
+    "meaning": [
+      "Harmony",
+      "Middle Path",
+      "Moderation",
+      "Balance",
+      "Finding Meaning"
+    ],
+    "reverseMeaning": ["Extremes", "Excess", "Lack of balance", "Confusion"],
+    "question": "How can you find back to your center?"
+  },
+  "15": {
+    "name": "The Devil",
+    "element": "",
+    "zodiac": "",
+    "answer": true,
+    "description": "",
+    "meaning": [],
+    "reverseMeaning": [],
+    "question": ""
+  },
+  "16": {
+    "name": "Tower",
+    "element": "",
+    "zodiac": "",
+    "answer": true,
+    "description": "",
+    "meaning": [],
+    "reverseMeaning": [],
+    "question": ""
+  },
+  "17": {
+    "name": "The Star",
+    "element": "Air",
+    "zodiac": "Aquarius",
+    "answer": true,
+    "description": "All your dreams are coming true",
+    "meaning": ["Creativity", "Opportunities", "Renewal", "Hope", "Faith"],
+    "reverseMeaning": [
+      "Disappointment",
+      "Disbelief",
+      "Faithlessness",
+      "Insecurity"
+    ],
+    "question": "Do you have fiath in the fulfilling of your dreams?"
+  },
+  "18": {
+    "name": "The Moon",
+    "element": "water",
+    "zodiac": "Pisces",
+    "answer": true,
+    "description": "See through illusions and deceptions",
+    "meaning": ["Subconscious", "Illusion", "Fear", "Deception"],
+    "reverseMeaning": ["Conscious", "Clarity", "Calmness", "Truth"],
+    "question": "What was hidden and is now becoming visible?"
+  },
+  "19": {
+    "name": "The Sun",
+    "element": "Fire",
+    "zodiac": "Sun",
+    "answer": true,
+    "description": "It's a new day, it's the beginning of something new",
+    "meaning": [
+      "Vitality",
+      "Blessings",
+      "Enlightenment",
+      "Joy",
+      "Warmth",
+      "Life"
+    ],
+    "reverseMeaning": ["Depression", "Negativity", "Darkness", "Ignorance"],
+    "question": "How can you celebrate and focus on the blessing in your life?"
+  },
+  "20": {
+    "name": "Judgement",
+    "element": "fire",
+    "zodiac": "pluto",
+    "answer": true,
+    "description": "Answering the call to action opens up new doors.",
+    "meaning": ["Taking Action", "Opportunities", "Calling", "Renewal"],
+    "reverseMeaning": [
+      "Doubt",
+      "Destruction",
+      "Blame",
+      "Avoidance",
+      "Procrastination"
+    ],
+    "question": "What is your calling?"
+  },
+  "21": {
+    "name": "The World",
+    "element": "",
+    "zodiac": "",
+    "answer": true,
+    "description": "",
+    "meaning": [],
+    "reverseMeaning": [],
+    "question": ""
+  }
+}
